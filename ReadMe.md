@@ -16,6 +16,8 @@
 
 ## PROGRAM DESCRIPTION
 
+RealTime Twitter https://twitter.com/Whale__Hunters 
+
 **Functions:**
 
 1. Collection of historical **stocks** OHLCV data for the last years and calculation of technical patterns (momentums, volatility, Japanese candlesticks, statistics...), 1068 patterns.
